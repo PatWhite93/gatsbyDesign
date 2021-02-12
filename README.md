@@ -2,7 +2,9 @@
 ###Using Gatsby and React
 
 ## General info
-A pizzaria homepage, where customers can learn about the staff, and order pizzas.  Uses Gatsby 
+A pizzaria homepage, where customers can learn about the staff, and order pizzas.
+Uses static site generation using Gatsby, blazing fast page loads with Gatsby's built in optimizations.
+Back end content managed with Sanity.io
 	
 ## Technologies
 Project is created with:
